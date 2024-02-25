@@ -1,0 +1,2 @@
+# finder
+never lose
